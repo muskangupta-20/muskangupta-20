@@ -1,5 +1,7 @@
+<h1>
 Hi there 👋
 Welcome to my profile 😊
+</h1>
 
 - 🔭 I’m currently working as a Frontend Developer
 - 👩🏻‍💻 I’m currently learning ReactJS
